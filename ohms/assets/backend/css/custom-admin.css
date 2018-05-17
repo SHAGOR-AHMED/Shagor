@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://localhost/school_management/font/opensans.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://localhost/school_management/font/opensans2.woff) format('woff');
+}
+
+.help-block{
+	color: #d16e6c;
+}
+
+.add-new-record{
+	float:right;
+	padding-right:10px;
+}
+
+.no-skin .nav-list > li.active > a{
+	font-weight:normal !important;
+}
+input.all_section_checkbox{
+	margin:10px 10px 0 0;
+}
+
+div.chechbox-line{
+	padding-left:95px;
+}
+
+.class-checkbox{
+	padding-top:5px;
+}
+
+#loader_container{
+    background: url(../img/loading.gif) no-repeat scroll center center transparent;
+    display: none;
+    height: 48px;
+    width: 48px;
+
+}
+
+#checkbox_loader{
+    background: url(../img/loading_transparent.gif) no-repeat scroll center center transparent;
+    display: none;
+    height: 32px;
+    width: 32px;
+
+}
+
+#remaining{
+	color:#892e65;
+	width:160px;
+}
+
+.all-padding{
+	padding-left:10px;
+	padding-top:8px;
+}
+
+.color-class{
+	color:#ff0000;
+}

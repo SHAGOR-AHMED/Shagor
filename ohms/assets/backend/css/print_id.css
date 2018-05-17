@@ -1,0 +1,52 @@
+h2,h1,h3,h4,p,div,ul
+	{
+		margin:0px;padding:0px;
+	}
+body
+	{
+		background:#000;
+	}
+.continer
+	{
+		background:#FFF;
+		border-radius:5px;
+		height:auto;
+		width:380px;
+		margin:130px 0px;
+		margin-left:auto;
+		margin-right:auto;
+		
+		/*box-shadow:5px 2px 8px 10px #0066ff;*/
+		color:#000;
+		font-size:18px;
+	}
+.sc_name
+	{
+		font-size:24px;
+		color:#CCC;
+		font-family:"Arial Black", Gadget, sans-serif;
+		padding:5px 10px;
+		background:#03C;
+		border-radius:5px 5px 0px 0px;
+	}
+.card_body
+	{
+		background:#FEFEFE;
+		padding:0px 3px;
+	}
+.card_body ul{list-style:none;}
+.card_body ul li{margin-left:3px;
+				padding:3px 0px;
+				font-family:"Lucida Console", Monaco, monospace;}
+.card_body img{margin-left:50px;
+padding:10px 0px;}
+.footer
+	{
+		height:40px;
+		width:380px;
+		background:#03C;
+		text-align:center;
+		vertical-align:middle;
+		font-size:18px;
+		color:#FFF;
+	}

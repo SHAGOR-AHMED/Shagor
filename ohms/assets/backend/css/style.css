@@ -1,0 +1,173 @@
+#id_photo {
+	margin-left:100px;
+}
+@charset "utf-8";
+/* CSS Document */
+/*
+div,p{margin:0px;
+padding:0px;}
+tr,td,table{margin:0px;
+padding:0px;}
+body{
+	width:100%;
+	height:100%;}
+*/	
+	
+#id_main{
+	margin-right:auto;
+	margin-left:auto;
+	height:auto;
+	width:250px;
+	background:#E9EAED;
+	color:#000000;
+	border:0.5px solid;
+	
+	}
+#id_name{
+	height:30px;
+	border:0.5px solid;;
+	margin-top:5px;
+	position:relative;
+	top:5px;
+	margin:5px;
+	text-align:center;
+	vertical-align:middle;}
+#id_a{
+	text-align:center;
+	margin-top:5px;}
+#id_img{
+	margin:8px 0px 0px 80px;
+	height:80px;
+	width:80px;}
+#id_info{
+	height:auto;
+	margin-top:3px;
+	margin-left:10px;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:14px;}
+#id_pri{
+	height:40px;
+	width:250px;
+	border-top:0.6px solid;}
+#id_blank{
+	clear:right;
+	height:30px;
+	width:150px;
+	float:left;}
+#id_sign{float:left;
+height:30px;
+width:100px;}
+#id_span{border-top:0.5px solid;
+margin-top:18px;
+margin-bottom:;
+width:70px;
+}
+#id_sign p{
+	margin-left:8px;}
+
+#avb{
+	background-color:#eff3f8;
+	padding-left:12px;
+	padding-top:10px;
+}
+	
+#attendance{
+	background:url(../img/dashboard/attendance_1.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+	margin-left:40px;
+}
+
+#attendance:hover{
+	background:url(../img/dashboard/attendance_2.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+}
+
+#hrm{
+	background:url(../img/dashboard/hrm_1.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+	margin-left:40px;
+}
+
+#hrm:hover{
+	background:url(../img/dashboard/hrm_2.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+}
+
+#payment{
+	background:url(../img/dashboard/payment_1.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+	margin-left:40px;
+}
+
+#payment:hover{
+	background:url(../img/dashboard/payment_2.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+}
+
+#settings{
+	background:url(../img/dashboard/settings_1.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+	margin-left:40px;
+}
+
+#settings:hover{
+	background:url(../img/dashboard/settings_2.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+}
+#notice{
+	background:url(../img/dashboard/notice_1.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+	margin-left:40px;
+}
+
+#notice:hover{
+	background:url(../img/dashboard/notice_2.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+}
+
+#sms{
+	background:url(../img/dashboard/sms_1.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+	margin-left:40px;
+}
+
+#sms:hover{
+	background:url(../img/dashboard/sms_2.png);
+	float:left;
+	clear:right;
+	height:100px;
+	width:100px;
+}
